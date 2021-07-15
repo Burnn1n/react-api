@@ -42,3 +42,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 # Screenshots
 <img src="src\img\2021-07-15 (1).png"></img>
 <img src="src\img\2021-07-15 (2).png"></img>
+<img src="src\img\2021-07-15 (3).png"></img>
