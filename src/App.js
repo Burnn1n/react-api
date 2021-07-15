@@ -4,6 +4,7 @@ import React,{useEffect, useState} from "react";
 
 const App = () =>{
 
+  //use your custom id and key
   const APP_ID = "a8e1565e";
   const APP_KEY = "662e46eac7d184ad63f92f6abf4b41f4	";
   
@@ -47,7 +48,6 @@ const App = () =>{
       </form>
       <div className="recipe">
       {recipes.map(recipe =>(
-        
         <Recipe 
           title = {recipe.recipe.label}
           calories = {recipe.recipe.calories}
